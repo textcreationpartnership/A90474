@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against the contagious air of independency. Shewing I. Six sufficient grounds, why they ought to revoke their schismaticall principles. II. Six paralells betwixt theirs and the Iesuiticall practices. / By D.P.P. Feb. 13. 1644. Imprimatur Ja: Cranford.</title>
+            <author>D. P. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90474</idno>
+            <idno type="STC">Wing P15</idno>
+            <idno type="STC">Thomason E270_3</idno>
+            <idno type="STC">ESTC R202030</idno>
+            <idno type="EEBO-CITATION">99862461</idno>
+            <idno type="PROQUEST">99862461</idno>
+            <idno type="VID">114620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E270[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against the contagious air of independency. Shewing I. Six sufficient grounds, why they ought to revoke their schismaticall principles. II. Six paralells betwixt theirs and the Iesuiticall practices. / By D.P.P. Feb. 13. 1644. Imprimatur Ja: Cranford.</title>
+                  <author>D. P. P.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Ralph Smith, at the sign of the Bible in Cornhill neer the Royall Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114620:1"/>
+            <pb facs="tcp:114620:1" rendition="simple:additions"/>
+            <p>AN ANTIDOTE AGAINST <hi>The Contagious Air of</hi> Independency.</p>
+            <p>SHEWING
+<list>
+                  <item>I. Six ſufficient Grounds, why they ought to revoke their Schiſmaticall Principles.</item>
+                  <item>II. Six Paralells betwixt theirs and the Ieſuiticall practices.</item>
+               </list>
+            </p>
+            <p>By <hi>D. P. P.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 1.12, 13.</hi>
+               </bibl>
+               <p>For this I ſay, that every one of you ſaith, I am of Paul, And I of Apollo, and I of Cephas, and <hi>I</hi> of Chriſt.</p>
+               <p>Is Chriſt divided? Was Paul crucified for you? Or were yee ba<g ref="char:EOLhyphen"/>ptized in the Name of Paul? &amp;c.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <date>
+                              <hi>Feb.</hi> 18. 1644.</date>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>JA: CRANFORD.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Ralph Smith,</hi> at the ſign of the Bible in Cornhill neer the Royall Exchange. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114620:2"/>
+            <pb n="3" facs="tcp:114620:2"/>
+            <head>An Antidote againſt the Contagious Air of INDEPENDENCY.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 Cor. 1.12, 13.</hi>
+               </bibl>
+               <q>
+                  <p>For this I ſay, that every one of you ſaith, I am of Paul, And I of Apollo, And <hi>I</hi> of Cephas, And <hi>I</hi> of Chriſt.</p>
+                  <p>Is Chriſt divided? Was Paul crucified for you? Or were you bapti<g ref="char:EOLhyphen"/>zed in the name of Paul? &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T was not without cauſe, that <hi>Solomon</hi> the wiſeſt King that ever breathed up<g ref="char:EOLhyphen"/>on earth, cryed out in the beginning of the book of his Recantation,<note n="(a)" place="margin">Ec<g ref="char:EOLhyphen"/>cleſ. 1.2.</note> 
+               <hi>Vanity of vanities, ſaith the Preacher; Vanity of vanities, all is vanity,</hi> &amp;c. For ſurely, if any that have ſeen the former happineſſe of this Kingdom, ſhould behold the miſeries of it at this preſent, they might with <hi>Solomon,</hi> bewail the vicietude of all temporall things; if they took into conſideration the ſudden change that is be<g ref="char:EOLhyphen"/>fallen to this Kingdom in ſo ſhort a time; for it is fallen from the higheſt flood of proſpe<g ref="char:EOLhyphen"/>rity, to the loweſt ebbe of deſolation; and not by the incurſions of foraign Nations, but by its own children, that have (like yong Vipers) ripp'd up the womb of their Mother, to imbrue their hands in their own blood, with leſſe remorſe and humanity, then barbarous heathen; for<note n="(b)" place="margin">Ta<g ref="char:EOLhyphen"/>citus, lib. 2. chap. 8</note> 
+               <hi>Tacitus</hi> records, that one Bro<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:114620:3"/> having ſlain his Brother unawares in the Battell of <hi>Bedriac</hi> (that was fought between the Commanders of the Emperor <hi>Otho,</hi> and the Commanders of the Emperor <hi>Vitellius</hi>) killed himſelf upon his Brothers body, for grief that he had been ſo unfortunate, as to ſlay him, that he was bound by nature to love dearly. And <hi>Guichardin</hi> records, That <hi>Robert</hi> Earl <hi>de la Marke</hi> loved ſo dearly his two ſons the Barons of <hi>Floranges</hi> and <hi>Jamets,</hi> that having broken through the Battell of<note n="(c)" place="margin">See Guichar<g ref="char:EOLhyphen"/>din Hi<g ref="char:EOLhyphen"/>ſtory, in the Bat<g ref="char:EOLhyphen"/>tell of Novare.</note> 
+               <hi>Novare,</hi> and made a worthy retreat with his own Regiment, in deſpight of the victorious Enemy; hearing (when he was paſt all danger) that his two ſons lay a<g ref="char:EOLhyphen"/>mong the dead in the midſt of the field, returned, and in deſpite of all oppoſition, recovered their bodies, and brought them away upon his horſe, and by this extra<g ref="char:EOLhyphen"/>ordinary valour ſaved both their lives, notwithſtanding they were then ſpeechleſſe, and mortally wounded, But alas, we are ſo deſperately wicked, and void of all hu<g ref="char:EOLhyphen"/>manity and naturall affection, in this Inteſtine War of ours, that divers Gentlemen, of both parties, have looked upon their neareſt Kinſmen that were wallow<g ref="char:EOLhyphen"/>ing in their own blood, in the Battell of <hi>Keynton,</hi> without offering them their ayd, nor caſting a ſigh of compaſſion for them: Nay, ſome have been ſo cruell, and deprived of all naturall affection, that they and their Abettors have ridden twenty miles in a dark night to ſurpriſe their Father, Uncle, or Brother, for to carry them away to their own Garriſon, to wring out of their hands ſome conſiderable Ranſom, which being refuſed, they have, like<note n="(d)" place="margin">Iob 1.17.</note> 
+               <hi>Caldeans,</hi> deprived them in another night, of all their cattell and means, and reduced them (that were Knights fellows) into <hi>Jobs</hi> caſe, without any
+<pb n="5" facs="tcp:114620:3"/> compaſſio<g ref="char:cmbAbbrStroke">̄</g> or reluctation. Its no wonder therfore, if our miſeries do rather increaſe, then draw neer to a period, ſince our cruelties, inhumanities, and oppreſſions, are not to be paraleld in any Hiſtory. But that which doth moſt of all increaſe the wrath of God againſt us, is, that ſome of our Clergy-men, that ſhould, like<note n="(e)" place="margin">Exo. 32.10, 11, 12.</note> 
+               <hi>Moſes,</hi> ſtand in the gap to appeaſe the Lords anger, are they, that inflame the ſame, by the contentions and Schiſms they foment in the Church of God, about the eſtabliſh<g ref="char:EOLhyphen"/>ing of a new way of Church-Government, which they have brought from <hi>Holland</hi> or <hi>America,</hi> (where they were conſtrained to flye, by the over-rigorous courſes of the Prelacy;) having been infected with this conta<g ref="char:EOLhyphen"/>gious air, by ſojourning in thoſe parts among Sectaries; ſo that, thinking by flight to avoid a Rock, they have caſt themſelves upon a quick-ſand, that may if God in his mercy prevent it not, conduce their Souls to greater danger then their Bodies were, during the perſe<g ref="char:EOLhyphen"/>cution of the Archbiſhop <hi>Land.</hi> It is therefore neceſſary that Chriſtians ſhould be very circumſpect where they flie, becauſe the contagious Air of a perverſe generation is apt to be infuſed inſenſibly into their hearts; for the ſojourning of righteous <hi>Lot</hi> among the Sodomites, did in ſome ſort taint his noble diſpoſition, otherwiſe he had not proffered his two daughters to the deſperate luſt of the Sodomites, to preſerve the two Angels from<note n="(f)" place="margin">Gen. 19.8.</note> vio<g ref="char:EOLhyphen"/>lence, that the Rites of Hoſpitality might not be wron<g ref="char:EOLhyphen"/>ged; And the aboad of his two daughters amongſt that impious Generation, taught them to drown the<note n="(g)" place="margin">Gen. 19.32.</note> con<g ref="char:EOLhyphen"/>tinency of their Father in the Wine of Drunkenneſſe, that hee might not abhor their inceſtuous imbrace<g ref="char:EOLhyphen"/>ments, which he had undoubtedly deteſted, if the light
+<pb n="6" facs="tcp:114620:4"/> of his reaſon had not been over-clouded with the va<g ref="char:EOLhyphen"/>pours of the Vine. And the<note n="(h)" place="margin">Gen. 42.15, 16</note> long aboad of the moſt continent of men, chaſte <hi>Joſeph,</hi> amongſt the Egyp<g ref="char:EOLhyphen"/>tians, bred in him that vicious habit, to ſwear by the lift of <hi>Pharaoh,</hi> &amp;c. Even ſo, they having been infected with this contagious Air of Independency, oppoſe as much as in them lyeth, the Presbyteriall-Government; not<g ref="char:EOLhyphen"/>withſtanding it is approved of by the Word of God, the practice of the Apoſtles, and of all the Pri<g ref="char:EOLhyphen"/>mitive Churches, And endeavour to bring in this new revealed way, that hath no preſident but the practice of ſome private Congregations of Separatiſts that are in <hi>Holland</hi> and <hi>America,</hi> which is as good as nothing at all; as it ſhall appear in the Reaſons following. Now becauſe I conceive theſe Schiſms and Spirituall Diviſions do as much, or rather more retard the true Reformation in hand, then our Civil Diviſions; I conceive my ſelf obliged by the rule of Chriſtian Charity, to exhort in the name of God, and for CHRIST JESUS ſake, all ſuch Independents, that have rent in pieces the Myſticall body of our Saviour; by gathering to them<g ref="char:EOLhyphen"/>ſelves private Congregations, and by a kinde of Mer<g ref="char:EOLhyphen"/>cenary way, robbed divers of their brethren of the Mi<g ref="char:EOLhyphen"/>niſtery, of ſome of the fatteſt ſheep of their flocks; to give over this deſtructive way; for did they know the irrepairable breaches, they make by it in the Church of God, I am perſwaded they would ſuddenly forſake the ſame, for the advancement of Gods glory, and their own ſafety (which ought to be dearer to them then their lives, and all other reſpects whatſo<g ref="char:EOLhyphen"/>ever) which is much impaired and indangered, by this their ſeparation from the Church; intreating all thoſe
+<pb n="7" facs="tcp:114620:4"/> to whom this Antidote ſhall come to hand, to ex<g ref="char:EOLhyphen"/>cuſe; if I write freely what I conceive of their way, and relate what I heare other men ſay of it, ſince the Lord is my witneſſe, that it is not out of ſpleen or malice that I bear againſt any of them; but meerly out of zeal to advance Gods glory, and for their own ſafety, that is much impaired by it, as I have ſaid before; that ſuch gifts that the Lord hath beſtowed upon divers of them (which their diſciples would have men to eſteem rare and extraordinary) may be imployed to increaſe the Kingdom of Chriſt, and not Satans, nor to foment Diviſions between them that ſhould remember, that Unity is their duty, as ſaith <hi>I. P.</hi> very judiciouſly, of whoſe opi<g ref="char:EOLhyphen"/>nion I am in this firſt caſe, that in controverſies men are to be milde in expreſſions; but whether he be of my opinion in this ſecond caſe I know not; <hi>viz.</hi> that men are bound to ſpeake ingeniouſly what they know, and conceive to be true and profitable for the advancement of Gods glory, and our brethrens good; whether it be pleaſanr or diſtaſtfull unto them: And as I ſay, ſo will I write in the following Reaſons.</p>
+            <div n="1" type="reason">
+               <head>I.</head>
+               <p>THeir new way muſt needs by all ingenious ſpirits be <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> acknowledged in this time of war, and civil diſ<g ref="char:EOLhyphen"/>ſentions, inconvenient to be preſſed or required; for theſe reaſons, 1. Becauſe an inteſtine war is a breeder of contention; and their new way is rather a fomentor, then a pacifier of diviſions; for none will deny that one body with an abſolute head, will more eaſily be kept in unity and concord, then many
+<pb n="8" facs="tcp:114620:5"/> thouſand bodies that have every one of them ahead that is abſolute, and hath neither reference, nor Dependency with any other authority, but of his own body: 2. Be<g ref="char:EOLhyphen"/>cauſe we ſhould by it, be divided from that union that we have contracted; and have taken a Solemn Oath to maintain with our brethren the Scots; which would divide us and them into ſo many ſmall channels, that the River of our Forces would be fordable every where; and theſe two Kingdoms expoſed to the cruell mercy of our enemies: 3. Becauſe we ſhould as the French Proverb ſaith, Fall from a Quotidian to a bur<g ref="char:EOLhyphen"/>ning Feaver; and for our Hierarchy of Prelates, that hath with much ado been ſupported; we ſhould eſta<g ref="char:EOLhyphen"/>bliſh 9324. that would like ſo many Caterpillars de<g ref="char:EOLhyphen"/>vour the ſubſtance or every green thing of the Land,<note place="margin">Exo. 10.5.</note> and ſuck more blood of the Common people in one year, then the Star-Chamber, the High-Commiſſion Court, the Arches, or all the Biſhops Courts could do in ſix; although their hunger was inſatiable.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>II.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> NO man, except he be blinded, or over-ſwayd with partiality, will deny, that this new way is altogether incompatible, and the greateſt Antagoniſt that can be to the Royall, to the Parliamentall, and their ſubordi<g ref="char:EOLhyphen"/>nate Authority: But becauſe this point hath been ſo clearly proved by Maſter <hi>Pryn,</hi> I will paſſe it over, for it would ſeem preſumption in mee, to adde any thing to that he hath already delivered concerning the ſame.</p>
+            </div>
+            <div n="3" type="reason">
+               <pb n="9" facs="tcp:114620:5"/>
+               <head>III.</head>
+               <p>THis new way hath no warrant out of the word of God; for we are not to ſeperate our ſelves from the Church, but upon palpable errors, that are crept, or wilfully maintained (as they are in the Church of <hi>Rome</hi>) againſt the Analogie of Faith, and the true Or<g ref="char:EOLhyphen"/>thodox Doctrine of the beſt Reformed Churches of Chriſtendom: But for men to gather ſecret congrega<g ref="char:EOLhyphen"/>tions, and rent in pieces, as ſome Independants do, the Myſticall Body of Chriſt; I ſay ſome, for they do not all ſeperate themſelves from the Church, nor fall into that ſin of offence, <hi>Matth.</hi> 18.6. <hi>But whoſo ſhall of<g ref="char:EOLhyphen"/>fend one of theſe little ones, which beleeveth in me, it were better for him that a milſtone were hanged about his neck, and that he were drowned in the depth of the Sea.</hi> Vnder colour, that their conſciences are ſo tender, that they cannot receive the Communion in a mixt congrega<g ref="char:EOLhyphen"/>tion without offence: But theſe men can ſtumble at a ſtraw, and lep over a block; for in this caſe their con<g ref="char:EOLhyphen"/>ſciences are offended without cauſe; and when they commit a great ſin, and tear in pieces the Myſticall bo<g ref="char:EOLhyphen"/>dy of our bleſſed Saviour; they are not offended at all, ſo this ſeems a Paradox to me, are one of the equivoca<g ref="char:EOLhyphen"/>tions they have learned from the Roman Jeſuits; that is rather a ſigne of a ſeared conſcience, then of a tender conſcience: Becauſe it is impoſſible for them to ob<g ref="char:EOLhyphen"/>tain (ſhould they ſeperate every mouth) and change their private congregations; one ſo pure as to be free from all Hypocrites, Profane, or ill prepared receivers; for of four men that entred into the Ark, by the Com<g ref="char:EOLhyphen"/>mandment of God, one of them was an Atheiſt, and<note n="(i)" place="margin">See Gen. 7.7 &amp; 9.22. <hi>Ham</hi> the ſon of <hi>Noah.</hi>
+                  </note> wicked hypocrite: And amongſt our bleſſed Redee<g ref="char:EOLhyphen"/>mers
+<pb n="10" facs="tcp:114620:6"/> twelve Apoſtles;<note n="(k)" place="margin">Mat. 26.20, 26, 27.28.</note> 
+                  <hi>Judas,</hi> the ſon of perdition was one of the twelve: what probability is there then that the private Congregations of the Independants can be free from all unworthy Communicants; for if we grant they may be freed from notorious ſinners; yet they dare not affirme they are free of hypocrites, that are more odious to God and men then open ſin<g ref="char:EOLhyphen"/>ners: Now if they conceive that the ſin of an impeni<g ref="char:EOLhyphen"/>tent receiver is transferred to them, if they receive the Communion with him; they are of neceſſity as much polluted by the company of Hypocrites, as by the company of known ſinners: But it is certain that the guilt of an impenitent receiver is not transferred upon the well prepared receiver,<note n="(l)" place="margin">Ezek. 18.19, 20.</note> for if it were, Gods pro<g ref="char:EOLhyphen"/>miſes were in vaine, and to think ſo were blaſphemy: Notwithſtanding whatſoever I have ſaid, or ſhall ſay concerning this point, it is not to excuſe the careleſ<g ref="char:EOLhyphen"/>neſſe of the Paſtors or Elders that admit notorious ſin<g ref="char:EOLhyphen"/>ners to ſo bleſſed a Sacrament, for they cannot be too preciſe to examine ſuch as they ſuſpect to be of ſcan<g ref="char:EOLhyphen"/>dalous life, or to refuſe them the admittance, untill they give to the world clear evidence of their converſion, and amendment of life: But it is to ſhew that ſuch are to blame, that doth ſeperate themſelves from their Pa<g ref="char:EOLhyphen"/>riſh Congregations, becauſe ſome few known ſinners are admitted to the Sacrament of the Lords Supper by the careleſneſſe of the Paſtors, Church-Wardens, or Elders of their Pariſh, and ſpecially now the honou<g ref="char:EOLhyphen"/>rable Houſes have taken order that this abuſe ſhould be redreſſed, and diligently amended; for as I have ſaid be<g ref="char:EOLhyphen"/>fore, they have no warrant out of the word of God to ſeperate themſelves upon ſuch ſandy grounds; be<g ref="char:EOLhyphen"/>cauſe
+<pb n="11" facs="tcp:114620:6"/> Chriſt the fountain of all wiſdom and purity, had not admitted to his own table, that very night that he inſtituted that bleſſed Sacrament to his diſciples, <hi>Judas,</hi> that he knew then to be a thiefe, and was to be preſently after the moſt perfidious Traitor that ever breathed upon earth, if ſeparation had been ſo neceſ<g ref="char:EOLhyphen"/>ſary to be obſerved. Moreover, although the Church of the <hi>Corinthians</hi> was polluted with ſuch an inceſtuous perſon, as was not ſo much as named among the Gen<g ref="char:EOLhyphen"/>tiles, yet we do not read that the Saints of that Church did ſeperate their ſelves, but only excommunicated him for a time, according to Saint <hi>Pauls</hi> direction; that the Spirit might be<note n="(m" place="margin">1 Cor. 5.1.5.</note> ſaved in the day of the Lord <hi>Jeſus,</hi> &amp;c. Neither do we read of any ſeparation of the Saints in the ſeven primitive Churches of <hi>Aſia,</hi> although there were divers among them infected with the erronious opinions of the <hi>Balaamites</hi> and of the<note n="(n)" place="margin">Rev. 2.14.15.</note> 
+                  <hi>Nicholaitans,</hi> &amp;c. I do not deny but the true chil<g ref="char:EOLhyphen"/>dren of God are to ſeperate themſelves from the com<g ref="char:EOLhyphen"/>pany, frequentation, and familiarity of all profane men, and notorious ſinners, becauſe they are as the Prophet <hi>Jeremiah</hi> ſaith, to take forth the precious from the vile,<note n="(o)" place="margin">Ier. 15.19.</note> that they may be as the mouth of God, &amp;c. But this ſeparation is a peculiar ſeparation, and not a Publike or a generall ſeparation of the Church; this confirmes the firſt point that I have ſpoken of, that there is no<g ref="char:EOLhyphen"/>thing more dangerous for a Chriſtian to inhabit, or to be familliarly acquainted or converſant with Sectaries, profane, Licentious, and impious men; for as it is im<g ref="char:EOLhyphen"/>poſſible for us to handle pitch, without our hands be ſtained and beſmeared with it; even ſo it is impoſſible to converſe with the wicked, without we be in time ac<g ref="char:EOLhyphen"/>ceſſary
+<pb n="12" facs="tcp:114620:7"/> to ſome one or other of their wicked actions; and the like to converſe familiarly, or to go conſtantly to bear the Independants Sermons, without one be tain<g ref="char:EOLhyphen"/>ted with the contagious air of their Poſitions.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>IV.</head>
+               <p>THis New-way, and the Separation of Independants from their Pariſh-Churches, is an incouragement to all the Separatiſts, Browniſts, Anabaptiſts, Antino<g ref="char:EOLhyphen"/>mians, Socinians and Libertines, that are in and about the City; for they ſhelter themſelves under their name; and when they are taken in their Conventicles, by ſome of the publique Officers, and inforced to anſwer for themſelves, they affirm to be Independants, to cover their Hereſies, it being an ordinary thing among the wicked, to diſguiſe themſelves under the name of ſuch, that are reputed to bee more ſincere then themſelves; for although the Independants gather congregations, and ſeparate themſelves from their Pariſh congrega<g ref="char:EOLhyphen"/>tions, as the Sectaries do; yet they ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the greater part ſound in Doctrine, and diſſent from us onely in Diſcipline; but the Sectaries are Erroneous both in Doctrine and Diſcipline, and draw daily upon our heads, the juſt judgement of God, becauſe we connive at their Errors, and ſuffer them to infect the ſimple peo<g ref="char:EOLhyphen"/>ple with their contagious Tenents. Now theſe diſguiſe<g ref="char:EOLhyphen"/>ments and fallacies of the Sectaries, ſhould in my opi<g ref="char:EOLhyphen"/>nion induce the Independants to a holy indignation, and deteſt to be any longer the harbour of ſuch Ver<g ref="char:EOLhyphen"/>mine, or the Preſident or Patron of their Separation from the Church of God; for if they are demanded why they diſmember themſelves; their anſwer is, That
+<pb n="13" facs="tcp:114620:7"/> the greateſt Preciſians in the Kingdom have taught them the way. And ſurely, if it were unlawfull (ſay they) ſuch Learned and Religious Men as they are, would not be example of offence and of evil to others; and by this means are a ſtumbling block to them, and the cauſe that the wicked are hardened in the wayes of Errour and Impiety.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>V.</head>
+               <p>THis revealed Diſcipline i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inferior to the Presby<g ref="char:EOLhyphen"/>teriall-Government; in this point, That the effects of the Iſſue is uncertain; whereas the Presbyteriall is approved, by the happy ſucceſſe it hath had for many yeers in <hi>Switzerland, France, Holland</hi> and <hi>Scotland.</hi> But this is a meer Novelty, that may be compared to the projects of ſome yong Mathematician drawn upon pa<g ref="char:EOLhyphen"/>per, that promiſe much, but when they are to be put in practiſe, are ordinarily of no uſe at all. Or like to ſome of our Engineer Models, that ſeem to promiſe in a ſmall form, divers rare effects; As for the elevation of Wa<g ref="char:EOLhyphen"/>ter above her naturall ſpring; which ſeems a thing im<g ref="char:EOLhyphen"/>poſſible, according to humane reaſon: Or to raiſe a piece of Timber, or a great ſtone of a thouſand weight from the ground to the top of a ſtructure, with a ſmall Engine that may be carryed in a mans hand. But when by the proofs of theſe ſmall Mo<g ref="char:EOLhyphen"/>dells, they have with much ado induced an under<g ref="char:EOLhyphen"/>taker to have them made in great, with extraordi<g ref="char:EOLhyphen"/>nary charges, there is not one among a hundred, when they are ſet up, that prove to be ſucceſsfull, becauſe ſome Spring, Wheel, or Counterpoiſe, is ei<g ref="char:EOLhyphen"/>ther too weake, too ſmall, or too light to indure
+<pb n="14" facs="tcp:114620:8"/> the violent motion of it, whereby it is preſently rent in pieces, and the charges of the credulous undertaker caſt away: even ſo it would fall out with this new re<g ref="char:EOLhyphen"/>vealed way, if our ſupreame Magiſtrates were ſo cre<g ref="char:EOLhyphen"/>dulous, as to trie the operation of it: (the which the Lord prevent,) for although it might be effectuall in ſome ſmall congregations, in <hi>Holland,</hi> or ſome ſmall Boroughs in <hi>America;</hi> yet it would certainly be de<g ref="char:EOLhyphen"/>ſtructive to this populous Kingdom, and would prove like <hi>Platos</hi> Common-weale, beautifull in conceits and imaginations; but altogether unuſefull, and as im<g ref="char:EOLhyphen"/>poſſible to be put in practiſe among us, as that was a<g ref="char:EOLhyphen"/>mong the Athenians.</p>
+            </div>
+            <div n="6" type="reason">
+               <head>VI.</head>
+               <p>THis new way would rather increaſe our diviſions and miſeries, then leſſen them; for of all ſorts of governments: whether they be civill or Eccleſiaſticall, a Democraticall forme is moſt apt to foment and breed diviſions and contentions, witneſſe the Democraticall Common-weales of the Athenians, Aetolians, and A<g ref="char:EOLhyphen"/>chaians, that were of ſmall continuance, and alwayes toſſed up and down with Civill contentions,<note n="(p)" place="margin">Thu<g ref="char:EOLhyphen"/>ſides Hi<g ref="char:EOLhyphen"/>ſtory.</note> as the rowling billows of a tempeſtuous ſea, and fell ſundry times under the yoke of Tyrants. Now if this new way ſhould take place, and every Paſtor with his Elders to be abſolute over their congregation, we ſhould (as the French proverb ſaith) fall from a Quotidian to a burning Feaver; and for one Hierarchy of Prelates, raiſe 9324. of Independants (as I ſaid before) for there are ſo many Pariſhes in this Kingdom; and they can<g ref="char:EOLhyphen"/>not conveniently be reduced in a leſſer number of con<g ref="char:EOLhyphen"/>gregations.
+<pb n="15" facs="tcp:114620:8"/> Now what Unity can be expected among ſo many Law-leſſe men; whoſe actions and doctrine are not to be controuled by any civill or Eccleſiaſticall Authority: I leave it to the conſideration of the Rea<g ref="char:EOLhyphen"/>der; for if great Princes that are of a more noble edu<g ref="char:EOLhyphen"/>cation, and of a more ingenious inclination, are ſubject to become Tyrants, when they feare neither Lawes nor men, as <hi>Tacitus</hi> the great Politician Records of the Emperor <hi>Tiberius,</hi> and of the Emperour <hi>Nero;</hi> what may be expected of meaner men;<note n="*" place="margin">Taci<g ref="char:EOLhyphen"/>tus.</note> 
+                  <hi>Tiberius</hi> ſaith he, kept himſelf in a kinde of moderation as long as <hi>Livia</hi> his mother lived, and ſo did <hi>Nero</hi> all the life time of his mother <hi>Agrippina,</hi> but as ſoon as <hi>Livia</hi> died of her, naturall death; and that <hi>Agrippina</hi> was made away by her impious ſon: they both give themſelves over to commit before the ſun all manner impiety; which they committed before ſecretly, for feare to diſpleaſe, or grieve their mothers: It is therefore the Lawes, and the reſpect of Magiſtrates, that curbeth the pernitious inclination of men: But if this new way ſhould take place; what Impiety would not be committed, or what Hereſies would not be invented, to pleaſe the pa<g ref="char:EOLhyphen"/>lat of their Auditors, for to increaſe the number of their congregations, and the revenew of their contributions, or out of ambition, to be reputed more preciſe and ſingular then their brethren or neighbor<note n="(q)" place="margin">Iud. 17.5.</note> Paſtors, upo<g ref="char:cmbAbbrStroke">̄</g> which would inſue unheard of diviſions, contentions, and confuſions, as it fell out in the time of <hi>Micah,</hi> when there was no King in <hi>Iſrael.</hi>
+               </p>
+               <p>As long as <hi>Iehojada</hi> lived, <hi>Joaſh</hi> King of <hi>Judah</hi> fea<g ref="char:EOLhyphen"/>red the Lord, but as ſoon as he was dead, he gave him<g ref="char:EOLhyphen"/>ſelf over to Idolatry, and Impiety, for he cauſed
+<pb n="16" facs="tcp:114620:9"/> 
+                  <hi>Zacharias</hi>
+                  <note n="(r)" place="margin">2 Chr. 24.20.</note> the Son of <hi>Iehoiada,</hi> that had raiſed him to the Crown, moſt cruelly and ingratefully to be ſto<g ref="char:EOLhyphen"/>ned to death, becauſe he admoniſhed him to returne unto the Lord. And ſhall we hope better of men of lower degree, that are riſen from nothing to ride on<note n="(ſ)" place="margin">Ec<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> Horſe-back, when their Maſter walkes a foot, have we forgotten rhe Proverb, <hi>Set a begger on horſe<g ref="char:EOLhyphen"/>back and he will, &amp;c.</hi> No ſurely, but rather worſe; for there never was two ſuch inſulting Prelates in the Chriſtian world, as Card: <hi>Woolſey,</hi> and <hi>William Laud</hi> Arch Biſhop of Canterbury; and yet the firſt was but a Butchers Son, and the ſecond a poore Cloathwork<g ref="char:EOLhyphen"/>ers Son; the firſt durſt preſume to name himſelfe be<g ref="char:EOLhyphen"/>fore his King, and the ſecond to controul his Prince; reforme the Royall Oath, and inſult over the ſupream Court of this Kingdom. Even ſo, if this new way ſhould take place, we ſhould have many thouſand petty Tyrants, domineering over their Congregati<g ref="char:EOLhyphen"/>ons, as the laſt Arch-biſhop did in the Star-chamber, and the High Commiſſion Court, and as many Religi<g ref="char:EOLhyphen"/>ons as Paſtors; for every one of them would frame a Religion after their owne Idea. But the Presbyterian Diſcipline is a medium way between Hierarchy, and a Democraticall Government; much like to the Civill Government of the Venetians, that hath continued this twelve hundred yeare, and ſo may this continue to the laſt day, becauſe it is free from all extreames, which in all Diſcipline are dangerous. But the King<g ref="char:EOLhyphen"/>dome being divided into twelve <hi>Clasſis,</hi> and every <hi>Claſ<g ref="char:EOLhyphen"/>ſis</hi> having ſix Reverend Divines, appointed to call twice a yeare all the Paſtors that ſhall be under their Iurisdiction before them, and to examine and deter<g ref="char:EOLhyphen"/>mine
+<pb n="17" facs="tcp:114620:9"/> of all Caſes as well for Doctrine, Diſcipline, and miſdemeanour in life and converſation; And theſe twelve <hi>Claſſis</hi> to be called once a yeare to a Nationall Synod, for to judge of the Appeals, and of the grea<g ref="char:EOLhyphen"/>ter affaires of the Church. This medium way I ſay, is able to ſuppreſſe all Schiſmes and Diviſions, and to keepe the Clergy in that purity of Doctrine and Di<g ref="char:EOLhyphen"/>ſcipline, as is beſeeming the true Miniſters of God. Theſe Reaſons then ſhould in my opinion induce the Independants to re-unite themſelves with the Church of God, to abhorre all ſeparation, and to diſdaine to ſhelter any longer the Sectaries that live in and about this City; but rather to endeavour to convince them of their errours by the ſword of the Spirit: But if they will deſperately remaine obſtinate, then to lend their helping hand to their Brethren of the Miniſtery, to remove them from hence, that they may not draw any longer the Iudgements of God upon this Nation, as they have done for conniving at them, which kind of halting between two opinions is moſt odious to God; for it is impoſſible to ſerve God and Mammon: And in ſo doing, they will vindicate themſelves of theſe ſix imputations following, which are daily caſt upon them, which otherwiſe will confirme this opini<g ref="char:EOLhyphen"/>on in the common people, that there is ſeldome any ſmoake without fire.</p>
+            </div>
+            <div n="1" type="imputation">
+               <head>I.</head>
+               <p>THat they are as like the Roman Jeſuits in their Principles, Method, Inſinuations,<note place="margin">6. Para<g ref="char:EOLhyphen"/>lells.</note> E<g ref="char:EOLhyphen"/>quivocations and Fallacies; as two Paralell-lines are like one another.</p>
+            </div>
+            <div n="2" type="imputation">
+               <pb n="18" facs="tcp:114620:10"/>
+               <head>II.</head>
+               <p>As the Jeſuits will not charge themſelves with any pariſh cures, but deſire rather to in<g ref="char:EOLhyphen"/>ſtruct Schollers in the liberall Arts; preach Fu<g ref="char:EOLhyphen"/>nerall Sermons all the Lent long: even ſo our Independents ſhun all pariſh cures, and endea<g ref="char:EOLhyphen"/>vour to obtain as many Legative Lectures as they can, for to avoid the extraordinary pains that pariſh cures require, and in lieu of Schol<g ref="char:EOLhyphen"/>lers, they gather to themſelves as many Diſci<g ref="char:EOLhyphen"/>ples as they can, and of them they frame privat congregations, of which they require a Cove<g ref="char:EOLhyphen"/>nant, for to contribute to the neceſsities of their Paſtors; and an oath or promiſe to follow him whereſoever he is inforced to flee; whether it be in <hi>Holland</hi> or in <hi>America;</hi> and ſo by theſe Lectures, that are the moſt certain rents to men and punctually paid of any; and the contribu<g ref="char:EOLhyphen"/>tions of their private congregations, their yeer<g ref="char:EOLhyphen"/>ly revenew doth excell the yeerly coming in of the beſt pariſh Cures.</p>
+            </div>
+            <div n="3" type="imputation">
+               <head>III.</head>
+               <p>The Jeſuits intice all the ingenious ſpirits of a County to their Schools, and allure thither the eldeſt ſons of the richeſt Families living a<g ref="char:EOLhyphen"/>bout them; whereby they inſinuate them<g ref="char:EOLhyphen"/>ſelves
+<pb n="19" facs="tcp:114620:10"/> in the affections of their Parents, which leave them great Legacies at their deceaſe; ſo that in few yeers, they get the greateſt part of the free-land, ſeated neer unto their Colledges; and if the Magiſtrates in Romayne and in the ſtate of the Venetians had not by an Edict pre<g ref="char:EOLhyphen"/>vented their wiles, they had in a ſhort time in<g ref="char:EOLhyphen"/>croached the greater part of their demains; But they have now made an Edict, That if any leave any land by his laſt Will to the Jeſuits, they are upon pain of forfeiture to ſel the ſame within the yeer, to Lay-men, that they may no more incroach upon their Territories: But the Jeſuits finding means notwithſtanding this Edict, by ſuppoſed names to hold theſe Legacies: The ſtate of Venice for this and a<g ref="char:EOLhyphen"/>nother of their Wiles, viz. About the Oricula<g ref="char:EOLhyphen"/>ry confeſsion, have been conſtrained to baniſh them out of their State; for as long as they re<g ref="char:EOLhyphen"/>mained in Venice, the moſt ſecret Councels and Reſolutions of the Senate was revealed to the Pope and the King of Spain, by the inſi<g ref="char:EOLhyphen"/>nuations uſed in the Oriculary-confeſsion of the <hi>Venetian</hi> Ladies: Even ſo the Independants intice and allure to their ſide the moſt accute
+<pb n="20" facs="tcp:114620:11"/> ſpirits, and inſinuate themſelves cunningly with the richeſt and moſt eminent perſons where they live, and allure the beſt and richeſt families to their private congregations, where<g ref="char:EOLhyphen"/>by they increaſe their Revenew; and obtain the beſt Legative Lectures about the City; and had they the uſe of the Oriculary confeſsion as well as the Jeſuits, that they might uſe their inſinuative faculty to dying men and women, they would undoubtedly excell the Jeſuits in riches and demaines.</p>
+            </div>
+            <div n="4" type="imputation">
+               <head>IV.</head>
+               <p>WHereſoever the Jeſuits ſet footing, they drive away, or impoveriſh all the reſt of the Eccleſiaſtive Orders of the Roman Church; be they Prieſts, Monks, or Friers, and are generally hated of them all for their extream ambition, and griping coveteouſneſſe; Even ſo whereſoever the Independants are ad<g ref="char:EOLhyphen"/>mitted, they impover ſhall their Brethren of the Miniſtry; for they draw from them, after a mercinary way, the fatteſt and the beſt wooll'd ſheep they have in their flock, to increaſe the contributions of their private congregations: Moreover, they are generally hated of their
+<pb n="21" facs="tcp:114620:11"/> neighbours for their vain oſtentation and a<g ref="char:EOLhyphen"/>varice; for although they would be accounted to be humble, yet they will not give way to the beſt, but will have their own opinion to be reputed as a law; and their arguments, al<g ref="char:EOLhyphen"/>though they are ſometime weak &amp; ridiculous, to be infallible; and for their Avarice, it is ap<g ref="char:EOLhyphen"/>parent, for their revenew exceeds the beſt Pariſh Cures.</p>
+            </div>
+            <div n="5" type="imputation">
+               <head>V.</head>
+               <p>THe Jeſuits, whereſoever they come, fo<g ref="char:EOLhyphen"/>ment diviſions, and contentions both in Church and in Common-wealth becauſe they love to fiſh in muddy waters; even ſo the Inde<g ref="char:EOLhyphen"/>pendants whereſoever they come, they foment diſcord in Church and Common-wealth; for proof of it, we need no other, then our own experience, for ſince they are come from <hi>Holland</hi> and <hi>America,</hi> they have increaſed our diviſions, and retarded by the one moity of the time, the eſtabliſhing of the Directory of the Diſci<g ref="char:EOLhyphen"/>pline of the Church, and of the true Reforma<g ref="char:EOLhyphen"/>tion; And their ſeparation, and their gathe<g ref="char:EOLhyphen"/>ring of private congregations, hath incouraged the Sectaries in their erronious wayes; that
+<pb n="22" facs="tcp:114620:12"/> for one Anabaptiſt or Antinomian, that was among us, when they came over, there is now ten.</p>
+            </div>
+            <div n="6" type="imputation">
+               <head>VI.</head>
+               <p>AS the Jeſuits have an extraordinary opini<g ref="char:EOLhyphen"/>on of themſelves; even ſo have the Inde<g ref="char:EOLhyphen"/>pendants, a certain immovable ſelf-conceited<g ref="char:EOLhyphen"/>neſſe<note n="*" place="margin">Witnes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. W. concern<g ref="char:EOLhyphen"/>ing his name.</note> of their own ſufficiency, and Sanctity; was it not a ſelf-conceitedneſſe of them to diſ<g ref="char:EOLhyphen"/>aſſent to the Presbyteriall Government, when all their Arguments, and Reaſons to maintain their new way, have been confuted and ſuffi<g ref="char:EOLhyphen"/>ciently anſwered; Or is it not rather an un<g ref="char:EOLhyphen"/>heard of obſtinacy, that ſix of them ſhould op<g ref="char:EOLhyphen"/>poſe and controul the Judgement and opinion of threeſcore and ten, as Learned and Religious Miniſters as themſelves? And is it not a dan<g ref="char:EOLhyphen"/>gerous conceit of their Sanctity, to ſeparate themſelves from their Pariſh congregations, becauſe a few of unworthy receivers are ad<g ref="char:EOLhyphen"/>mitted by the ignorance, or the careleſneſſe of the Church officers; ſurely theſe proceedings of theirs do bear evidence againſt them, that they are as well conceited of themſelves as the Phariſee, Luk. 18.11. <hi>The Phariſee ſtood and prayed
+<pb n="23" facs="tcp:114620:12"/> thus with him ſelf, God I thank thee, that</hi> I <hi>am not as other men are, extortioners, unjuſt, adulterers, or even as this Publicane,</hi> &amp;c. Becauſe they conſider not, that humility &amp; ſelf-deniall, are the two faireſt flowers of the Chriſtian Garland, and a moſt certain ſigne of a true hearted <hi>Nathaniel.</hi> Theſe are the aſperſions that are daily caſt upon the Independants, that ſhould induce them for the time to come, to be more circumſpect of their wayes, then they have been heretofore (for men begin to take notice of their Carriage) and to abſtain from renting in pieces, as they have done formerly, the Myſticall Body of Chriſt; but ra<g ref="char:EOLhyphen"/>ther to endeavour with all humility, and with the ſpirit of meekneſſe,<note place="margin">Acts, all chap. 2.</note> to be with one accord and aſſent, aſsiſtant and yoak-fellows with their brethren of the Miniſtery, to eſtabliſh the Presbyteriall Diſcipline in the Church; that is, in all probability the way to advance Gods glory, the good of his Church, and the Peace and the Unity of theſe three Kingdoms, and to increaſe his ſacred Majeſties honor, and to lay a ſure foundation for his gracious Poſte<g ref="char:EOLhyphen"/>rity to be the Monarchs of Albion, as long as the Sun and Moon ſhall endure; whereas if
+<pb n="24" facs="tcp:114620:13"/> they continue in their wilfulneſſe and obſtina<g ref="char:EOLhyphen"/>cy; God, notwithſtanding their traverſing, en<g ref="char:EOLhyphen"/>deavors, will bring this great worke of Refor<g ref="char:EOLhyphen"/>mation to a bleſſed period in his due time, and they ſhall ſee it, but as the Prophet <hi>Eliſha</hi> ſaid to the lord on whoſe hand the King leaned, <hi>Thou ſhalt ſee it with thine eyes,</hi>
+                  <note place="margin">2 Kings 7.2.</note> 
+                  <hi>but ſhalt not eat there<g ref="char:EOLhyphen"/>of;</hi> ſo except they repent from their former wayes, and endeavour with their brethren of the Miniſtry, to root out of this Kingdom theſe numerous ſwarmes of Sectaries, that in<g ref="char:EOLhyphen"/>feſt the Aire of the Land with their erroneous and blaſphemous opinions, they may ſee this Reformation effected in their dayes, but ſhall never reap or eat of the fruits of it, but ſhall be enforced to return in exile from whence they came, except they return, as I have ſaid, un<g ref="char:EOLhyphen"/>to the Lord, and prefer the advance of his glo<g ref="char:EOLhyphen"/>ry, before their own ends.</p>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Errata: Page <hi>8.</hi> line <hi>13.</hi> for <hi>ſupported</hi> read <hi>ſuppreſſed.</hi>
+            </p>
+            <pb facs="tcp:114620:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
